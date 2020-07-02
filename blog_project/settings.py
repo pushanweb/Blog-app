@@ -25,7 +25,7 @@ SECRET_KEY = 'fsvm1=z-o(e&1f-%#r6dq)c2=morph765z#1a4=5n@$a%8a51h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
